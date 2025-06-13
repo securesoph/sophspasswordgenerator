@@ -1,4 +1,4 @@
-# CyberKeyForge 🔐✨  
+# CyberKeyForge (Password Generator Project) 🔐✨  
 *A Python GUI-Based Password Generator*
 
 **CyberKeyForge** is a sleek and efficient password generator built using Python and Tkinter. It’s designed to help users instantly create strong, randomized passwords—because cybersecurity starts with a solid key.
