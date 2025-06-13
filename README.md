@@ -1,35 +1,35 @@
 # CyberKeyForge 🔐✨  
-*Python GUI-Based Password Generator*
+*A Python GUI-Based Password Generator*
 
-Welcome to **CyberKeyForge**, a sleek and powerful password generator built using Python and Tkinter. This tool is designed to help users quickly create strong, secure passwords—because your digital security starts with a solid key.
+**CyberKeyForge** is a sleek and efficient password generator built using Python and Tkinter. It’s designed to help users instantly create strong, randomized passwords—because cybersecurity starts with a solid key.
 
 ---
 
-## 🛠️ Features
+## 🚀 Features
 
-- **Custom Length Input**: Choose how long you want your password to be.
-- **Randomized Output**: Generates secure passwords using uppercase, lowercase, digits, and symbols.
-- **Instant Results**: Get your new password instantly with one click.
-- **User-Friendly Interface**: Built with Tkinter for a clean, simple GUI experience.
+- **Custom Length Input**: Specify the desired password length.
+- **Secure Password Generation**: Randomly generates a mix of uppercase, lowercase, digits, and symbols.
+- **Instant Results**: Get a strong password with a single click.
+- **Clean GUI**: Built with Tkinter for a user-friendly, minimalist interface.
 
 ---
 
 ## 🎥 Demo
 
-Watch the full demo here:  
-👉 [CyberKeyForge Demo on Google Drive] https://drive.google.com/file/d/1LSFZXfZDhnhiHStKC7dqjs2Fd3eoCMrd/view?usp=drive_link 
+See CyberKeyForge in action:  
+👉 [Watch the full demo](https://drive.google.com/file/d/1LSFZXfZDhnhiHStKC7dqjs2Fd3eoCMrd/view?usp=drive_link)
 
 ---
 
-## 🧪 How It Works
+## 🧠 How It Works
 
-1. Enter your desired password length in the input box.
-2. Click **"Generate Password"**.
-3. Your strong password will instantly appear below!
+1. Enter the length of the password you want to generate.
+2. Click **“Generate Password”**.
+3. Your randomly generated, high-entropy password will appear instantly in the GUI.
 
---- 
+---
 
-## 📋 Code Overview 
+## 🧩 Code Overview
 
 ```python
 # Uses tkinter for GUI and string/random to generate characters
